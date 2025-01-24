@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.Logging;
+using System;
 using System.Windows.Forms;
 
 namespace ClipboardExample
@@ -8,7 +9,8 @@ namespace ClipboardExample
         [STAThread] // This ensures the main thread runs in Single Threaded Apartment (STA) mode
         static void Main(string[] args)
         {
-            string filePath = "D:\\Logu\\XML\\HPXL\\xml\\custom.xml";
+
+            string filePath = "D:\\Logu\\XML\\HPXML\\xml\\custom.xml";
 
             byte[] fileBytes = File.ReadAllBytes(filePath);
 

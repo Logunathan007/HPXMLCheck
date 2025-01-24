@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileToBase64Convertor", "FileToBase64Convertor\FileToBase64Convertor.csproj", "{0AF55C79-0532-4B81-A177-3C9B8620B559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileToBase64Convertor", "FileToBase64Convertor\FileToBase64Convertor.csproj", "{0AF55C79-0532-4B81-A177-3C9B8620B559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleXMLGeneration", "sampleXMLGeneration\sampleXMLGeneration.csproj", "{941BEE7E-4C6D-466A-A339-067A9DA644D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0AF55C79-0532-4B81-A177-3C9B8620B559}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AF55C79-0532-4B81-A177-3C9B8620B559}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AF55C79-0532-4B81-A177-3C9B8620B559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941BEE7E-4C6D-466A-A339-067A9DA644D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941BEE7E-4C6D-466A-A339-067A9DA644D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941BEE7E-4C6D-466A-A339-067A9DA644D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941BEE7E-4C6D-466A-A339-067A9DA644D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

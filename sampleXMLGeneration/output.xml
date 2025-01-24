@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HPXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaVersion="4.0" xmlns="http://hpxmlonline.com/2023/09">
+  <XMLTransactionHeaderInformation>
+    <XMLType />
+    <XMLGeneratedBy>VS Code</XMLGeneratedBy>
+    <CreatedDateAndTime>2025-01-23T11:40:00</CreatedDateAndTime>
+    <Transaction>create</Transaction>
+  </XMLTransactionHeaderInformation>
+  <SoftwareInfo>
+    <SoftwareProgramUsed>ID Energy Score Generator</SoftwareProgramUsed>
+    <SoftwareProgramVersion>1.0</SoftwareProgramVersion>
+  </SoftwareInfo>
+  <Building>
+    <BuildingID id="buildingid-2" />
+    <Site>
+      <SiteID id="siteid-1" />
+      <Address>
+        <AddressType>street</AddressType>
+        <Address1>8 API House</Address1>
+        <CityMunicipality>Kansas City</CityMunicipality>
+        <StateCode>KS</StateCode>
+        <ZipCode>66101</ZipCode>
+      </Address>
+    </Site>
+    <ProjectStatus>
+      <EventType>quality assurance/monitoring</EventType>
+      <Date>2025-01-23T00:00:00</Date>
+    </ProjectStatus>
+    <BuildingDetails>
+      <BuildingSummary>
+        <BuildingConstruction>
+          <ResidentialFacilityType>multi-family - condos</ResidentialFacilityType>
+        </BuildingConstruction>
+      </BuildingSummary>
+    </BuildingDetails>
+  </Building>
+</HPXML>
